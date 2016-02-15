@@ -43,6 +43,6 @@
 			<div class="col-md-6">.col-md-6</div>
 		</div>
 		</div>
-		<img src="/images/" alt="wireframes" />
+		<img src="/images" alt="wireframes" />
 	</body>
 </html>
